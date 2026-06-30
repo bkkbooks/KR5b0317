@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0317/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0317/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清侍帝晨桐柏真人真圖讚
+  date: '2015-08-29 00:16:15.928235'
+  source:
+    repository: kanripo
+    path: KR5b0317
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0317_000-HFL.yaml, hash: 'sha256:e3f8746087ad6e78a0f5a0a2d353090bc99f8df74f6574a8433e50e5998132d0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0317_000-HFL.markers.yaml, hash: 'sha256:5ce5329974b49bc3e41ab26194d3172226c45f21f0ce7e25d3b900e4a0fd9bf2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0317_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2905
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:d9cc8b8d2f5bffcabb3fc18f8a4d50732e2b90e1dd1ab4150f8fcd01a3154fda
