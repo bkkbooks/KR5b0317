@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5b0317_HFL_000-001a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR5b0317_krp_000-bkkind1}
   - {type: punctuation, offset: 6, content: (, id: KR5b0317_krp_000-bkkpn1}
+  - {type: voice, offset: 6, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 8, content: ), id: KR5b0317_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 9, content: '
 
@@ -575,6 +576,7 @@ markers:
   - {type: indent, offset: 1234, content: 　, id: KR5b0317_krp_000-bkkind10}
   - {type: punctuation, offset: 1234, content: (, id: KR5b0317_krp_000-bkkpn3}
   - {type: page-break, offset: 1234, content: '', id: KR5b0317_SJB_000-110159c, image: sjb/11/110159c.png}
+  - {type: voice, offset: 1234, length: 24, name: note, id: n2}
   - {type: substitution, offset: 1239, original: 缘, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17551}}
   - {type: punctuation, offset: 1246, content: /, id: KR5b0317_krp_000-bkkpn4}
   - {type: substitution, offset: 1246, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -1641,6 +1643,7 @@ markers:
   - {type: line-break, offset: 2892, content: '', id: KR5b0317_HFL_000-019a01}
   - {type: page-break, offset: 2892, content: '', id: KR5b0317_SJB_000-110163c, image: sjb/11/110163c.png}
   - {type: punctuation, offset: 2904, content: (, id: KR5b0317_krp_000-bkkpn6}
+  - {type: voice, offset: 2904, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2905, content: ), id: KR5b0317_krp_000-bkkpn7}
   - {type: 'kr:newline', offset: 2905, content: '
 
@@ -1692,4 +1695,4 @@ markers:
 
       ', id: KR5b0317_krp_000-bkkkrnewl417}
   back: []
-hash: sha256:fd3c34cf01c5d008176f02f0c6d9c9d4894674e7f61c253099469c5422f75223
+hash: sha256:5110bfafb2fcca4a08c96561966b01d5da46867ff231282c5189050cad12cc10
